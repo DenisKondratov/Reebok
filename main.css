@@ -5,7 +5,7 @@
     font-family: 'Montserrat', serif;
 }
 .wrapper {
-    width: 70%;
+    width: 75%;
     display: grid;
     grid-template: 70px 4fr 1fr 5fr / repeat(4, 1fr);
     margin: 0 auto;
@@ -38,7 +38,6 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 0.8rem;
     display: block;
     color: goldenrod;
     width: 100%
