@@ -38,6 +38,7 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     text-transform: uppercase;
+    font-size: .9rem;
     display: block;
     color: goldenrod;
     width: 100%
